@@ -7,7 +7,7 @@
 
 @font-face {
     font-family: Gotham Pro;
-    src: url(Fonts/GothamPro-Light.ttf);
+    src: url(Fonts/GothamPro.ttf);
 }
 
 .container {
@@ -17,6 +17,13 @@
 
 .block-padding {
     padding: 8% 0;
+}
+
+.footer-footer>h3 {
+    font-family: "Gotham Pro", sans-serif;
+    font-size: 20px;
+    line-height: 152.34%;
+    color: #606060;
 }
 
 .header {
@@ -129,6 +136,19 @@
 .body-top {
     margin-top: 3%;
     scroll-behavior: smooth;
+}
+
+.footer-footer {
+    padding: 10px 0;
+    width: 68%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 14px;
+}
+
+.footer-footer>p {
+    max-width: 238px;
+    max-height: 54px;
 }
 
 .block-body {

@@ -16,14 +16,14 @@
 }
 
 .block-padding {
-    padding: 5% 0;
+    padding: 8% 0;
 }
 
 .header {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    padding: 1% 0;
+    padding: 1.8rem 0;
     position: absolute;
     top: 0;
     left: 0;
@@ -33,7 +33,7 @@
 .header-navigation a {
     text-decoration: none;
     color: #606060;
-    margin-left: 50px;
+    margin-left: 47px;
     text-transform: uppercase;
     font-weight: 600;
 }
@@ -46,7 +46,7 @@
     color: #1C1C30;
     font-size: 36px;
     margin-top: 4%;
-    background: url(img/bacground-main.png);
+    background: url(img/bacground-New.svg);
     background-size: contain;
     height: 70vh;
     background-position: center top;
@@ -65,7 +65,7 @@
     background-color: white;
     height: 2.6rem;
     width: 9rem;
-    margin-top: 4%;
+    margin-top: 3%;
     font-family: 'Lato', sans-serif;
 }
 
@@ -131,13 +131,13 @@
 
 .block-body {
     padding: 10px 0;
-    width: 70%;
+    width: 68%;
     margin: 0 auto;
     text-align: center;
 }
 
 .block-body>h3 {
-    margin: 2% 0;
+    margin: 0.3rem 0;
     font-family: "Gotham Pro", sans-serif;
 }
 
@@ -148,7 +148,7 @@
 }
 
 .function {
-    background: url(img/bacground-footer.png);
+    background: url(img/baground-footer-new.svg);
     background-size: contain;
     height: 80vh;
     background-position: left;
@@ -244,7 +244,7 @@
     font-style: normal;
     font-weight: normal;
     color: #606060;
-    margin-top: 1%;
+    margin-top: 0.8rem;
 }
 
 .top_titles>h1 {

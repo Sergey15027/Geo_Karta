@@ -68,6 +68,7 @@
     width: 9rem;
     margin-top: 3%;
     font-family: 'Lato', sans-serif;
+    cursor: pointer;
 }
 
 .button a {
@@ -146,6 +147,8 @@
     font-family: 'Lato', sans-serif;
     font-style: normal;
     font-weight: normal;
+    max-width: 260px;
+    max-height: 55px;
 }
 
 .function {

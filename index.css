@@ -142,6 +142,7 @@
 .block-body>h3 {
     margin: 0.3rem 0;
     font-family: "Gotham Pro", sans-serif;
+    color: #1C1C30;
 }
 
 .block-body>p {
@@ -151,6 +152,7 @@
     max-width: 260px;
     max-height: 55px;
     line-height: 130%;
+    color: #606060;
 }
 
 .function {

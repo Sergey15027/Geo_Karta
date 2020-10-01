@@ -136,6 +136,7 @@
     width: 68%;
     margin: 0 auto;
     text-align: center;
+    font-size: 14px;
 }
 
 .block-body>h3 {
@@ -149,6 +150,7 @@
     font-weight: normal;
     max-width: 260px;
     max-height: 55px;
+    line-height: 130%;
 }
 
 .function {
